@@ -1,3 +1,12 @@
+# OpenUtau XMTech Maintained version
+
+## Feature
+内置[Kouon NSF-HifiGAN](https://github.com/Kouon-Vocoder-Project/Kouon_Vocoder)声码器</br>
+（可能会）提前编译潜在的支持DiffSinger新版本/特性的OpenUtau
+
+## Todo
+多词典前端隐藏/轨道内跨语种</br>
+某新引擎
 
 # OpenUtau
 
