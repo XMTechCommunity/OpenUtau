@@ -8,5 +8,4 @@ namespace OpenUtau.Core.DiffSinger {
         protected override string GetDictionaryName() => "dsdict-wuu.yaml";
         protected override string GetLangCode() => "wuu";
         }
-    }
 }
