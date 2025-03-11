@@ -1,7 +1,7 @@
 # OpenUtau XMTech Maintained version
 
 ## Feature
-从1.1.0版本开始，XMTechCommunity 维护的 OpenUtau 分支重心将不再倾向 DiffSinger，而是转为兼容 XMTech VCS Studio API 的官方实现。
+自1.1.0版本之後，由 XMTechCommunity 維護嘅 OpenUtau 分支嘅重心，將唔會再傾向 DiffSinger，而係轉為支援 XMTech VCS Studio API 嘅官方實現。
 
 ## Todo
 
