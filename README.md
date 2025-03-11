@@ -1,13 +1,9 @@
 # OpenUtau XMTech Maintained version
 
 ## Feature
-内置[Kouon NSF-HifiGAN](https://github.com/Kouon-Vocoder-Project/Kouon_Vocoder)声码器，从1.0.0.3版本开始同时内置[OpenVPI NSF-HifiGAN 微调](https://github.com/openvpi/vocoders)声码器</br>
-（可能会）提前编译潜在的支持DiffSinger新版本/功能特性的OpenUtau
+从1.1.0版本开始，XMTechCommunity 维护的 OpenUtau 分支重心将不再倾向 DiffSinger，而是转为兼容 XMTech VCS Studio API 的官方实现。
 
 ## Todo
-多词典前端隐藏/轨道内跨语种</br>
-多词典音素器解耦合（轨道新增语言参数）</br>
-某新引擎
 
 # OpenUtau
 
